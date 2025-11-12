@@ -3,7 +3,7 @@
 <html lang="fa">
 <head>
   <meta charset="UTF-8">
-  <title>🌤️ وضعیت آب‌وهوا</title>
+  <itle>🌤️ وضعیت آب‌وهوا</title>
   <style>
     body {
       font-family: sans-serif;
